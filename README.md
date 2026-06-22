@@ -103,7 +103,7 @@ DevOps Security capabilities were selected to enable repository security assessm
 
 A GitHub Personal Access Token (PAT) was generated and configured to authorize Microsoft Defender for Cloud access.
 
-![GitHub PAT](images/create_token_classic.png)
+![GitHub PAT](images/create_Tokens(Classic).png)
 
 ### Permissions Granted
 
