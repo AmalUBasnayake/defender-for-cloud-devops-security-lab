@@ -43,7 +43,7 @@ The implementation enables organizations to proactively identify security risks,
 
 # 🏗️ Solution Architecture
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](images/Architecture.png)
 
 ### Architecture Flow
 
@@ -87,7 +87,7 @@ Security Recommendations
 
 A GitHub connection was established within Microsoft Defender for Cloud and linked to the Azure subscription and dedicated resource group.
 
-![GitHub Connection](images/create_github_connection.png)
+![GitHub Connection](images/create_github_Connection.png)
 
 ---
 
